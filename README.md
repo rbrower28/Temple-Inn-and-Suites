@@ -4,7 +4,12 @@ This is a sample site for a fake hotel chain that allows
 you to browse through options, find location and reservation
 information, and a form to submit to make a reservation!
 
-Here is the link to the deployed page:
+## Deployment
+
+Here is the link to the page:
+https://rbrower28.github.io/Temple-Inn-and-Suites/
+
+## Pages
 
 The entire site contains 8 functioning pages (not including
 site-plan.html). These pages are:
